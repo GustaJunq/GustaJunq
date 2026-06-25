@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=Gustavo%20Neves&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-### building AI that doesn't wait for permission · 🇧🇷 São Paulo
+### building AI that doesn't wait for permission · 🇧🇷 Osasco, São Paulo
 
 [![TikTok](https://img.shields.io/badge/@synastria.dev-black?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@synastria.dev)
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-gustajunq-yellow?style=flat-square)](https://huggingface.co/gustajunq)
