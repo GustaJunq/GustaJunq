@@ -13,7 +13,7 @@
 
 ---
 
-**Founder of [SynastrIA Networks](https://huggingface.co/SynastrIA).** I build AI products and open-source models — mostly from scratch, mostly alone, mostly from Brazil.
+**Founder of [SynastrIA Networks](https://huggingface.co/SynastriaNetworks).** I build AI products and open-source models — mostly from scratch, mostly alone, mostly from Brazil.
 
 Self-taught dev. Started with LSTMs on Android. Now fine-tuning Qwen, shipping Flask APIs, and making TikToks about all of it.
 
