@@ -49,6 +49,10 @@ Self-taught dev. Started with LSTMs on Android. Now fine-tuning Qwen, shipping F
 
 </div>
 
+2 models published on HuggingFace
+140+ users on Lucian
+OpenFable 4B with 68.48% MMLU · 86.20% GSM8K
+
 ---
 
 ## the narrative
