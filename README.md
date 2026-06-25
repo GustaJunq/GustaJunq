@@ -4,7 +4,7 @@
 
 ### building AI that doesn't wait for permission · 🇧🇷 São Paulo
 
-[![TikTok](https://img.shields.io/badge/@synastriadev-black?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@synastriadev)
+[![TikTok](https://img.shields.io/badge/@synastria.dev-black?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@synastria.dev)
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-gustajunq-yellow?style=flat-square)](https://huggingface.co/gustajunq)
 [![Discord](https://img.shields.io/badge/Discord-SynastrIA-5865F2?style=flat-square&logo=discord&logoColor=white)](https://dsc.gg/synastrianet)
 [![TikTok](https://img.shields.io/badge/@openfable-black?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@openfable)
